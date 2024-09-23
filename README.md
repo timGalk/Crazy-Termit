@@ -1,3 +1,4 @@
+# Description of the task 
 This project implements a simple simulation of termite collective behavior on a two-dimensional grid. Inspired by real-life examples of emergent order in animal species, the simulation models how a group of termites, following very basic rules and without any intelligence, can collectively organize scattered wood chips in a structured way.
 
 # Project Overview
