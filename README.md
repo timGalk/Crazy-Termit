@@ -18,3 +18,8 @@ Key Features
 Emergent Behavior: Observe how random actions by simple agents (termites) can lead to patterns or organized structures over time.
 Customizable Grid and Agents: Modify grid size, termite count, and the number of wood chips.
 Visualization: Visualize the simulation steps to see the evolving structure of the scattered wood chips.
+
+# Description of the folders 
+
+Folder **Code** contains java file for terminal version of the game. 
+![example of the code](C:\Users\Tivro\Documents\ShareX\Screenshots\2024-09\Code_QTEtHOBDJq.png)
