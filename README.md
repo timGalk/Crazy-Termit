@@ -22,4 +22,4 @@ Visualization: Visualize the simulation steps to see the evolving structure of t
 # Description of the folders 
 
 Folder **Code** contains java file for terminal version of the game. 
-![example of the code](/home/emperor/JavaProjects/Crazy-Termit/media/Code_QTEtHOBDJq.png)
+![example of the code](media/Code_QTEtHOBDJq.png)
