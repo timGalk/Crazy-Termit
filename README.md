@@ -25,5 +25,5 @@ Folder **Code** contains Java file for terminal version of the game.
 # Processing version 
 
 Folder **visual** contains file Processing, you have to have Processing software installed. 
-[https://github.com/user-attachments/assets/2f1111ac-882b-422f-8e05-579e31dfd245](https://github-production-user-asset-6210df.s3.amazonaws.com/152897676/369915911-2f1111ac-882b-422f-8e05-579e31dfd245.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240923%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240923T141914Z&X-Amz-Expires=300&X-Amz-Signature=728f208ee690466ddd09ea477c9186fc4a34e37e10ca0175f1468fa43cccc457&X-Amz-SignedHeaders=host)
+https://www.youtube.com/watch?v=k-xL7BQZ97o
 
