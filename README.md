@@ -19,7 +19,11 @@ Emergent Behavior: Observe how random actions by simple agents (termites) can le
 Customizable Grid and Agents: Modify grid size, termite count, and the number of wood chips.
 Visualization: Visualize the simulation steps to see the evolving structure of the scattered wood chips.
 
-# Description of the folders 
+# Java version  
+Folder **Code** contains Java file for terminal version of the game. 
+![example of simulation](media/Code_QTEtHOBDJq.png)
+# Processing version 
 
-Folder **Code** contains java file for terminal version of the game. 
-![example of the code](media/Code_QTEtHOBDJq.png)
+Folder **visual** contains file Processing, you have to have Processing software installed. 
+[![Demonstration](https://img.youtube.com/vi/xL7BQZ97o/0.jpg)](https://www.youtube.com/watch?v=k-xL7BQZ97o)
+
